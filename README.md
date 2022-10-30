@@ -7,3 +7,5 @@
 
 Чтобы у вас всё было отлично, ставьте FastBullet на 1 
 будет имба отвечаю
+
+Скачать - https://github.com/defoxxx/RedMatch2/releases/download/Redmatch2/rm.cheat.dll
