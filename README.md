@@ -8,7 +8,7 @@
 Чтобы у вас всё было отлично, ставьте FastBullet на 1 
 будет имба отвечаю
 
-Скачать - Чит больше не работает
+Скачать - https://github.com/spacecollapse/RedMatch2/releases/download/Redmatch2/DirectX11.Demo.x64.dll
 
 Можете попробовать разные версии отсюда - https://github.com/spacecollapse/RedMatch2/releases/tag/Redmatch2
 
